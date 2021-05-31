@@ -1,2 +1,5 @@
 Kevin Alexander 
 Saquinga Chango
+Lenguajes: Python, Java, Php 
+SGBD: Mysql, Oracle
+
